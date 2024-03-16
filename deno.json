@@ -1,0 +1,7 @@
+{
+  "name": "@ts-rex/kv-spy",
+  "version": "0.0.0",
+  "tasks": {
+    "dev": "deno run --watch -A --unstable-kv main.ts"
+  }
+}
